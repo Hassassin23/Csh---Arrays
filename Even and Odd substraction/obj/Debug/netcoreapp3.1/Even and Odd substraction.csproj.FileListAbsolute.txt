@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\bin\Debug\netcoreapp3.1\Even and Odd substraction.exe
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\bin\Debug\netcoreapp3.1\Even and Odd substraction.deps.json
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\bin\Debug\netcoreapp3.1\Even and Odd substraction.runtimeconfig.json
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\bin\Debug\netcoreapp3.1\Even and Odd substraction.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\bin\Debug\netcoreapp3.1\Even and Odd substraction.dll
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\bin\Debug\netcoreapp3.1\Even and Odd substraction.pdb
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\obj\Debug\netcoreapp3.1\Even and Odd substraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\obj\Debug\netcoreapp3.1\Even and Odd substraction.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\obj\Debug\netcoreapp3.1\Even and Odd substraction.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\obj\Debug\netcoreapp3.1\Even and Odd substraction.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\obj\Debug\netcoreapp3.1\Even and Odd substraction.dll
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\obj\Debug\netcoreapp3.1\Even and Odd substraction.pdb
+C:\Users\hasan\source\repos\Arrays\Even and Odd substraction\obj\Debug\netcoreapp3.1\Even and Odd substraction.genruntimeconfig.cache

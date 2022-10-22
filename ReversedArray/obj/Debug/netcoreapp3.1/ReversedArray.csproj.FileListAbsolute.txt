@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\Arrays\ReversedArray\bin\Debug\netcoreapp3.1\ReversedArray.exe
+C:\Users\hasan\source\repos\Arrays\ReversedArray\bin\Debug\netcoreapp3.1\ReversedArray.deps.json
+C:\Users\hasan\source\repos\Arrays\ReversedArray\bin\Debug\netcoreapp3.1\ReversedArray.runtimeconfig.json
+C:\Users\hasan\source\repos\Arrays\ReversedArray\bin\Debug\netcoreapp3.1\ReversedArray.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\Arrays\ReversedArray\bin\Debug\netcoreapp3.1\ReversedArray.dll
+C:\Users\hasan\source\repos\Arrays\ReversedArray\bin\Debug\netcoreapp3.1\ReversedArray.pdb
+C:\Users\hasan\source\repos\Arrays\ReversedArray\obj\Debug\netcoreapp3.1\ReversedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Arrays\ReversedArray\obj\Debug\netcoreapp3.1\ReversedArray.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Arrays\ReversedArray\obj\Debug\netcoreapp3.1\ReversedArray.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Arrays\ReversedArray\obj\Debug\netcoreapp3.1\ReversedArray.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Arrays\ReversedArray\obj\Debug\netcoreapp3.1\ReversedArray.dll
+C:\Users\hasan\source\repos\Arrays\ReversedArray\obj\Debug\netcoreapp3.1\ReversedArray.pdb
+C:\Users\hasan\source\repos\Arrays\ReversedArray\obj\Debug\netcoreapp3.1\ReversedArray.genruntimeconfig.cache
