@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\bin\Debug\netcoreapp3.1\RoundingArrays.exe
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\bin\Debug\netcoreapp3.1\RoundingArrays.deps.json
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\bin\Debug\netcoreapp3.1\RoundingArrays.runtimeconfig.json
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\bin\Debug\netcoreapp3.1\RoundingArrays.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\bin\Debug\netcoreapp3.1\RoundingArrays.dll
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\bin\Debug\netcoreapp3.1\RoundingArrays.pdb
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.dll
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.pdb
+C:\Users\hasan\source\repos\Arrays\RoundingArrays\obj\Debug\netcoreapp3.1\RoundingArrays.genruntimeconfig.cache

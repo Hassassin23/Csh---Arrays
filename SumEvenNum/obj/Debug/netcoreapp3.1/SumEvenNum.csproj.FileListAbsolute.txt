@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\bin\Debug\netcoreapp3.1\SumEvenNum.exe
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\bin\Debug\netcoreapp3.1\SumEvenNum.deps.json
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\bin\Debug\netcoreapp3.1\SumEvenNum.runtimeconfig.json
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\bin\Debug\netcoreapp3.1\SumEvenNum.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\bin\Debug\netcoreapp3.1\SumEvenNum.dll
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\bin\Debug\netcoreapp3.1\SumEvenNum.pdb
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\obj\Debug\netcoreapp3.1\SumEvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\obj\Debug\netcoreapp3.1\SumEvenNum.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\obj\Debug\netcoreapp3.1\SumEvenNum.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\obj\Debug\netcoreapp3.1\SumEvenNum.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\obj\Debug\netcoreapp3.1\SumEvenNum.dll
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\obj\Debug\netcoreapp3.1\SumEvenNum.pdb
+C:\Users\hasan\source\repos\Arrays\SumEvenNum\obj\Debug\netcoreapp3.1\SumEvenNum.genruntimeconfig.cache
