@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\30MinutesInFuture\bin\Debug\netcoreapp3.1\30MinutesInFuture.exe
+C:\Users\hasan\source\repos\30MinutesInFuture\bin\Debug\netcoreapp3.1\30MinutesInFuture.deps.json
+C:\Users\hasan\source\repos\30MinutesInFuture\bin\Debug\netcoreapp3.1\30MinutesInFuture.runtimeconfig.json
+C:\Users\hasan\source\repos\30MinutesInFuture\bin\Debug\netcoreapp3.1\30MinutesInFuture.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\30MinutesInFuture\bin\Debug\netcoreapp3.1\30MinutesInFuture.dll
+C:\Users\hasan\source\repos\30MinutesInFuture\bin\Debug\netcoreapp3.1\30MinutesInFuture.pdb
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.AssemblyInfo.cs
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.dll
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.pdb
+C:\Users\hasan\source\repos\30MinutesInFuture\obj\Debug\netcoreapp3.1\30MinutesInFuture.genruntimeconfig.cache
