@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.exe
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.deps.json
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.runtimeconfig.json
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.dll
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.pdb
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.dll
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.pdb
+C:\Users\hasan\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.genruntimeconfig.cache

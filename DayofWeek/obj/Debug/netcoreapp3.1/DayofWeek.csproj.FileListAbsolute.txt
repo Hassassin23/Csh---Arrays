@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\Arrays\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.exe
+C:\Users\hasan\source\repos\Arrays\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.deps.json
+C:\Users\hasan\source\repos\Arrays\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.json
+C:\Users\hasan\source\repos\Arrays\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\Arrays\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\hasan\source\repos\Arrays\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.pdb
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.pdb
+C:\Users\hasan\source\repos\Arrays\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.genruntimeconfig.cache
